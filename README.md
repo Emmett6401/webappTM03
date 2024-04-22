@@ -2,7 +2,7 @@
 ## 여기 포함된 파일은 webappTM02에 꾸미기가 적용된 파일입니다.
 ### DOC 폴더에 설명이 있습니다. 
 
-[Template Demo](https://sonata-bell.github.io/learn-teachable-machine/template/)
+[Template Demo](https://emmett6401.github.io/webappTM03/template/)
 
 ---
 
